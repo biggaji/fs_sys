@@ -1,0 +1,25 @@
+{
+  "name": "fs_sys",
+  "version": "1.0.0",
+  "description": "A practical revision on nodejs file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggaji/fs_sys.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biggaji/fs_sys/issues"
+  },
+  "homepage": "https://github.com/biggaji/fs_sys#readme",
+  "devDependencies": {
+    "@types/node": "^16.3.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.5"
+  }
+}
